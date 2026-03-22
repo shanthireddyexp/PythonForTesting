@@ -12,3 +12,5 @@ b = int(input("Enter the second number: "))
 c = int(input("Enter the third number: "))
 min = a if a<b else b if b<c else c
 print ("Minimum value: ",min)
+
+
